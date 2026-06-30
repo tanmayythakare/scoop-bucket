@@ -1,0 +1,15 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tanmayythakare/creo/releases/download/v0.3.0/creo_0.3.0_windows_amd64.zip",
+            "bin": [
+                "creo.exe"
+            ],
+            "hash": "bb85d7b042184e26a637dfa28aa87db6d946d04ffdc9a525a9f7683bf37ffcb1"
+        }
+    },
+    "homepage": "https://github.com/tanmayythakare/creo",
+    "license": "MIT",
+    "description": "One command starts all your services in separate Windows Terminal tabs."
+}
