@@ -1,12 +1,12 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tanmayythakare/creo/releases/download/v0.3.1/creo_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/tanmayythakare/creo/releases/download/v0.3.2/creo_0.3.2_windows_amd64.zip",
             "bin": [
                 "creo.exe"
             ],
-            "hash": "716cb0cd1242f6821d9e0a154197d9dd43d913e33fd89f6487c2ce33546300ce"
+            "hash": "af0d688e7091bf78692f6434b9cd2ee852b3ca3fe94a55b829c87645d6c9cbc7"
         }
     },
     "homepage": "https://github.com/tanmayythakare/creo",
