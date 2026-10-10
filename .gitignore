@@ -1,0 +1,11 @@
+# OS & Machine state
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# IDE & Editor state
+.idea/
+.vscode/
+*.swp
+.creo/
